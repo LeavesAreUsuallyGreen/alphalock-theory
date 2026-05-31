@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+
+message: "If you use this repository, please cite it using the metadata below."
+
+title: "Alphalock Theory"
+
+type: software
+
+abstract: >
+  Alphalock Theory is a conceptual repository describing Alphalock,
+  a constrained-feedback deductive word game and Wordle alternative.
+  It explores reasoning under uncertainty, information gain, entropy,
+  deduction, and comparisons with related logic and word games such
+  as Wordle and Mastermind.
+
+keywords:
+  - Alphalock
+  - Wordle alternative
+  - deductive word game
+  - logic puzzle
+  - constrained feedback
+  - reasoning under uncertainty
+  - information theory
+  - entropy
+  - information gain
+  - AI reasoning
+  - reinforcement learning
+  - sequential decision making
+  - exploration versus exploitation
+
+license: "MIT"
+
+url: "https://alphalockgame.net"
+
+repository-code: "https://github.com/BerkeAltiparmak/AlphaLock-RL"
+
+references:
+  - type: website
+    title: "Alphalock"
+    url: "https://alphalockgame.net"
+
+  - type: article
+    title: "Exploring Reinforcement Learning and Information Theory for Alphalock"
+    url: "https://www.researchgate.net/publication/394259368_Exploring_Reinforcement_Learning_and_Information_Theory_for_Alphalock"
